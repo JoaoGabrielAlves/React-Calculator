@@ -1,6 +1,6 @@
  ## How to use
  
-Run `npm start` in file folde
+Run `npm install` in file folder an then `npm start`
 
 ## Bootstrap
 
